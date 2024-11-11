@@ -7,7 +7,7 @@ namespace MyTeamCityProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, TeamCity!");
-            Consolel.WriteLine("Second commit");
+            Console.WriteLine("Second commit");
         }
     }
 }
